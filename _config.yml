@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profileimg.png
+author_logo: profile.png
 author: Jong Min
 author_bio: code storage
 author_email: "chanmin4@naver.com"
