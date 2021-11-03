@@ -3,7 +3,7 @@ subtitle: for code
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "chanmin4.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://chanmin4.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/chanmin4" # the subpath of your site, e.g. /blog
 
 # Navigation
